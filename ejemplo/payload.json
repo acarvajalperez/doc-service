@@ -1,0 +1,15 @@
+{
+  "nombreCliente": "TechCorp On-Premise S.L.",
+  "fechaContrato": "21/02/2026",
+  "productos": [
+    {
+      "nombre": "Licencia Core Platform",
+      "precio": "2.400,00 €"
+    },
+    {
+      "nombre": "Módulo Velocity Template Engine",
+      "precio": "800,00 €"
+    }
+  ],
+  "total": "3.200,00 €"
+}
